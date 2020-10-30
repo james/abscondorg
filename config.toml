@@ -1,3 +1,39 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
+theme = "hallo"
+[Author]
+    name = "James Darling"
+
+[params]
+    [[params.links]]
+        icon = "linkedin"
+        title = "LinkedIn"
+        url = "https://www.linkedin.com/in/abscond/"
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/james"
+    [[params.links]]
+        icon = "twitter"
+        title = "Twitter"
+        url = "https://twitter.com/abscond"
+    [[params.links]]
+        icon = "medium"
+        title = "Medium"
+        url = "https://medium.com/@abscond"
+    [[params.links]]
+        icon = "instagram"
+        title = "Instagram"
+        url = "https://www.instagram.com/abscond/"
+    [[params.links]]
+        icon = "facebook"
+        title = "Facebook"
+        url = "https://www.facebook.com/jamesdarling/"
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "Email"
+        url = "mailto:james@abscond.org"
+    [params.colors]
+        background = "#DE6FA1"

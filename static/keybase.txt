@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/abscond
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://abscond.org
+  * I am abscond (https://keybase.io/abscond) on keybase.
+  * I have a public key with fingerprint 2440 6B38 61ED 4BD1 61B2  5F6F 3866 9EBB 7B84 70DA
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010124bc602b268191e2c79913231684ca2b90ed8d4415623a0580235fb37aa0786b0a",
+      "fingerprint": "24406b3861ed4bd161b25f6f38669ebb7b8470da",
+      "host": "keybase.io",
+      "key_id": "38669ebb7b8470da",
+      "kid": "010124bc602b268191e2c79913231684ca2b90ed8d4415623a0580235fb37aa0786b0a",
+      "uid": "6c99461655614dc24c7731799c967500",
+      "username": "abscond"
+    },
+    "merkle_root": {
+      "ctime": 1604157488,
+      "hash_meta": "c2be1ac2d1e6c9b7c27d5aa1db7ad8dc589521e3037c310f597176e012049711",
+      "seqno": 17980778
+    },
+    "revoke": {
+      "sig_ids": [
+        "f639d27f99d07d3b774c646fdfee0584dca140898aa7f43d000194e00a82dd2e0f"
+      ]
+    },
+    "service": {
+      "hostname": "abscond.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1604157509,
+  "expire_in": 157680000,
+  "prev": "35fe9b1e3dff79a575304d983dbbf16e665e7e2eb042080e549064c2c16403de",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMKxAnicrVNbaB1FGD6JNbExobFCMQUFl1KlHsrM7OxcUmqxan0olES0Bkw9zOXf
+nCU5Z093NzElHmwfxAsIWhVpINqoUASrNaEXb6RpQkqpQWsKhSLWvgiR9sXGCirq
+bFCk4KNPuzvz/d9tZ2bbbiq0NKweH56YmPxspuHsqWywUBrb+/CIp2O7x+sc8fph
++QEDFtKs1B9Zr9NDGGFCtWGIaMIElhiI4VJin/iYCWoU0RKBFZZSHDDiKxQIRPwg
+1D5XCnHBNFJe0Qujah8ktSSqZo6WUIqY9gXDYKm2mGFNgpCFboVJ0JprQTmy+WA5
+TvMJZ06rFDZGsVtzH6Vle/+B/599Dy7TMSMlZZgFAcPUGkIN5z52fEYyHiCUA1NI
+qqoCDq10auKq9epFrwJJ/wCUkjjO8m5NFuUIzJBT5VQIl0+l5VIFMuUGDdGAlSEW
+g1PU3BBuA6Ww1Vw5qyYQMiAYfORz42MUBpJjzsBFRdS9Ymcjhd3V2ClwKRDnwllI
+YCjuh1w9jfpcbanX+aQXMl9awkMpLeLW15xTwygLbQjgmnAZFaZISKEUD6lvEUJY
+UkBICWItARR6u+q5WjIUmWXy/D/dmH9jnPQ5R7UkzmITD7iNcpbV0s68l2xPLUc+
+Dbr0N0dJR1XrDombGIIkjeKqS+GQN1YWIFn0YLgWJVCKckTAmXDmUK4DQ/mRCEKQ
+2pVkw5BL5UZ8RK0UvtU6xAwYC4ADAY0oQQJBQCVi1BCDGUW+hX875M6m6nOUrreq
+ygYT8OqnTvauKDS0FJpubswvT6FlZfs/VyopNv+xuevw0lcdUyMd811bxuZWkTNN
+bcUjuxpn1r+uv1P1W++91NN74PyqxdGejo/WNL37/b7BB47xM/HSO7MLi407ime7
+153Y+2d8TnaPtZfx9cq1+emv0W+33b37zR9WqjsW7+/dt3rrB5uPjotNDV9eXOj6
+9lDr3IHPr2yqkgui5+2tG/Z37N/WsnTlxdYdn+z8/Z7nu38ef+Tg1bHD05e2t71w
+uufgfQuP+ujxX9MfP96w2Dx1+o0n1g4fXyOna9dGB2V87vZv6s+90jvROj5z/cNj
+Fx7TD703PzU3WT40unZ2yy9++/YH2bqXjk4GK346frlSX3/XxZe3vX/51fMnn7ra
+/Nadz7Y1n/ji0+SW1575C7YAfF0=
+=RwLv
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/abscond
+
+==================================================================
